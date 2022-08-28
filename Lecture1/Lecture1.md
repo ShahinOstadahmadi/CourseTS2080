@@ -75,6 +75,10 @@ print(emp._Employee__salary) # one way to get the private members of the Empolye
 - Simplicity
 - aesthetics
 
+**Example from the book:** <br></br>_In the Figure 13.4 item is a class which has keep_data as member variable whocj cannot be accessed from outside directly. It can be accessed only via th member functions set() and get_value()._
+
+![Figure](Encapsulation.png)
+
 ### Abstraction
 
 Abstraction is...
