@@ -11,4 +11,8 @@
 
 Define your actors is importatnt. Let the problem statment to define your actors. The stakeholders are some of the actors.<br></br>
 
-## Software to design
+## Good Reads
+
+**Description**
+
+![Good read Use Case diagram](Screenshot_Good_reads.png)
