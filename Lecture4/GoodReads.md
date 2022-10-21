@@ -1,27 +1,35 @@
 # Problem statement
 
-Our app gives a detailed view over a user's collection of books.
+Our app gives a detailed view over a member's collection of books.
 
 # Actors
 
 - App members
-- guests
-- system admin
+- Guests
+- System admin
 
-# Req.
+# Requirements:
 
-- **Guest:** :
+- **Guests should be able to:**
 
-  - search a book
+  - Discover books
+  - Search for a specific book
   - Read a book's reviews
 
-- **Member:**
-  - log in
-  - track their current reading
-  - track to be read
-  - track read reviews
-  - review book
+- **Members should be able to:**
 
-**System admin:** add books, edit added books,remove books
+  - Do everything a guest can do
+  - Log in
+  - Track their current reading
+  - Track to-be-read books
+  - Track read books
+  - Review books
+
+- **A system admin should be able to:**
+  - add books
+  - Edit books
+  - Delete books
+
+### Use case diagram
 
 ![Good read Use Case diagram](Screenshot_Good_reads.png)
